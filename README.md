@@ -13,3 +13,7 @@ The slack workspace is open for anyone and we have members from all over the wor
 ## Format
 
 Each week we will learn a particular subject or technology that would get us closer to our goal of launching an app. Online classroom is every Saturday 10am - 2pm PST.
+
+## Code of Conduct
+
+Please read our code of conduct here: [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
