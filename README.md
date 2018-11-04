@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Vancouver Coding Club is an open commmunity for people to learn web development. With the help of mentors we will learn web development basics and build our own Progressive Web Application (PWA) / Mobile Web Application that go on AppStore or PlayStore.
+Vancouver Coding Club is an open community for people to learn web development. With the help of mentors we will learn web development basics and build our own Progressive Web Application (PWA) / Mobile Web Application that go on AppStore or PlayStore.
 
 ## Joining
 
