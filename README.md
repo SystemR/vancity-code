@@ -6,7 +6,7 @@ Vancouver Coding Club is an open community for people to learn web development. 
 
 ## Joining
 
-Join us on slack at: [https://join.slack.com/t/vancity-code/shared_invite/enQtNDY5MTU4NDEyNjQ0LTZlNzg0ZTU0NTAxYTE5NjY0ZjA1MWNmNTE3ZmNlZjIxMTU3OTQyOWRmYTJkZWM5MjNkOTQ4YWZjZDg0NzE5OWM](https://join.slack.com/t/vancity-code/shared_invite/enQtNDY5MTU4NDEyNjQ0LTZlNzg0ZTU0NTAxYTE5NjY0ZjA1MWNmNTE3ZmNlZjIxMTU3OTQyOWRmYTJkZWM5MjNkOTQ4YWZjZDg0NzE5OWM)
+Join us on slack at: [https://join.slack.com/t/vancity-code/shared_invite/enQtNTA0MDE5MTY4MzIwLWZjYjZmMzRmMTc0YmJjYTM3MTYzZDI2Mjk5YWM5NWRhY2JjNzBlYTBkZjkwZmZmZDMyODI2MDdhYTczNzlhMTc](https://join.slack.com/t/vancity-code/shared_invite/enQtNTA0MDE5MTY4MzIwLWZjYjZmMzRmMTc0YmJjYTM3MTYzZDI2Mjk5YWM5NWRhY2JjNzBlYTBkZjkwZmZmZDMyODI2MDdhYTczNzlhMTc)
 
 The slack workspace is open for anyone and we have members from all over the world (Kenya, Uganda, Estonia to name a few).
 
